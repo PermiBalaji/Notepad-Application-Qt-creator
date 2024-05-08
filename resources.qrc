@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/icons8-about-64.png</file>
+        <file>images/icons8-copy-48.png</file>
+        <file>images/icons8-cut-64.png</file>
+        <file>images/icons8-new-copy-48.png</file>
+        <file>images/icons8-opened-folder-100.png</file>
+        <file>images/icons8-paste-94.png</file>
+        <file>images/icons8-redo-50.png</file>
+        <file>images/icons8-save-48.png</file>
+        <file>images/icons8-save-as-48.png</file>
+        <file>images/icons8-undo-50.png</file>
+        <file>C:/Users/kiran/Downloads/icons8-font-50.png</file>
+    </qresource>
+</RCC>
